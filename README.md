@@ -1,5 +1,5 @@
 # Imersão Dados 2021
-Projeto desenvolvido na **Imersão Dados** de 2021, envolvendo o trabalho de **Data Science** aplicado na área de **Drug Discovery**, neste repositório estão apresentados os conteúdos das aulas e minhas resoluções dos desafios propostos.Esse projeto da Alura foi inspirado em um desafio do [Laboratory innovation science at Harvard](https://lish.harvard.edu/), no qual os dados foram disponibilizados em uma competição no [kaggle](https://www.kaggle.com/c/lish-moa). O desafio proposto por Harvard tinha como proposta avançar o desenvolvimento de novas drogas  por meio da melhoria de algoritimos de predição de Mecanismos de Ação, este desafio foi explorado pela Alura na Aula 5 desta imersão.
+Projeto desenvolvido na **Imersão Dados** de 2021, envolvendo o trabalho de **Data Science** aplicado na área de **Drug Discovery**, neste repositório estão apresentados os conteúdos das aulas e minhas resoluções dos desafios propostos.Esse projeto da Alura foi inspirado em um desafio do [Laboratory innovation science at Harvard](https://lish.harvard.edu/), no qual os dados foram disponibilizados em uma competição no [kaggle](https://www.kaggle.com/c/lish-moa). O desafio proposto por Harvard tinha como objetivo avançar o desenvolvimento de novas drogas  por meio da melhoria de algoritimos de predição de Mecanismos de Ação ativados por compostos químicos específico, este desafio foi explorado pela **Alura** na **Aula 5** desta imersão.
 
 Neste sentido, a base de dados apresentada nessa **Imersão Dados** pela **Alura**, os quais explorei nos desafios e no [Projeto Final](github.com), fornecem informações sobre **23814** experimentos, como:
 
@@ -16,7 +16,7 @@ Também foram analisados os principais dados dos resultados dos experimentos:
 * Mecanismos de Ação analisados;
 * Mecanismos de Ação ativados pelos experimentos.
 
-Primeiramente, gostaria de agradecer aos instrutores: [Guilherme Silveira](https://www.linkedin.com/in/guilhermeazevedosilveira/), [Vanessa Leiko](https://www.linkedin.com/in/vanessa%2Dleiko%2Doikawa%2Dcardoso) e [Thiago Gonçalves](https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos/) pela oportunidade de aprendizado entregada nessa imersão.
+Finalmente, gostaria de agradecer aos instrutores: [Guilherme Silveira](https://www.linkedin.com/in/guilhermeazevedosilveira/), [Vanessa Leiko](https://www.linkedin.com/in/vanessa%2Dleiko%2Doikawa%2Dcardoso) e [Thiago Gonçalves](https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos/) pela oportunidade de aprendizado entregada nessa imersão.
 
 A seguir um sumário das aulas, com os desafios propostos e links para os notebooks disponibilizados neste repositório.
 
