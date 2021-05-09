@@ -1,4 +1,4 @@
-# Introdução
+## Introdução
 Projeto desenvolvido na **Imersão Dados** de 2021, envolvendo o trabalho de **Data Science** aplicado na área de **Drug Discovery**, neste repositório estão apresentados os conteúdos das aulas e minhas resoluções dos desafios propostos.Esse projeto da Alura foi inspirado em um desafio do [Laboratory innovation science at Harvard](https://lish.harvard.edu/), no qual os dados foram disponibilizados em uma competição no [kaggle](https://www.kaggle.com/c/lish-moa). O desafio proposto por Harvard tinha como objetivo avançar o desenvolvimento de novas drogas  por meio da melhoria de algoritimos de predição de Mecanismos de Ação ativados por compostos químicos específico, este desafio foi explorado pela **Alura** na **Aula 5** desta imersão.
 
 ## Estrutura dos dados
