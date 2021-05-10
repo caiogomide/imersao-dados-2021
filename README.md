@@ -3,7 +3,7 @@ Projeto desenvolvido na **Imersão Dados** de 2021, envolvendo o trabalho de **D
 
 ## Estrutura dos dados
 
-Neste sentido, a base de dados apresentada nessa **Imersão Dados** pela **Alura**, os quais explorei nos desafios e no [Projeto Final](github.com), fornecem informações sobre **23814** experimentos, como:
+Neste sentido, a base de dados apresentada nessa **Imersão Dados** pela **Alura**, os quais explorei nos desafios e no [Projeto Final](https://github.com/caiogomide/imersao-dados-desafio-final), fornecem informações sobre **23814** experimentos, como:
 
 * Identificação do tratamento;
 * Tipo de tratamento;
